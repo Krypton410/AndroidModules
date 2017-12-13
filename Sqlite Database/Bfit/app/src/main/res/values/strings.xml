@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bfit</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="units">
+        <item>Kg</item>
+        <item>Lbs</item>
+    </string-array>
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>

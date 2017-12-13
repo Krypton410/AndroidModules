@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TTS</string>
+
+
+    <array name="Lang">
+        <item>English</item>
+        <item>German</item>
+        <item>Chinese</item>
+        <item>French</item>
+        <item>Japanese</item>
+        <item>Italian</item>
+        <item>Korean</item>
+        <item>Traditional Chinese</item>
+
+    </array>
+</resources>
